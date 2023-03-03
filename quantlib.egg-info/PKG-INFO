@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: quantlib
-Version: 0.2
-Summary: A package to train and integerise QNNs.
-Author: Matteo Spallanzani
-Author-email: spmatteo@iis.ee.ethz.ch
-License-File: LICENSE
