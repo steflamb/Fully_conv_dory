@@ -1,0 +1,6 @@
+[submodule "vendor/dory"]
+	path = vendor/dory
+	url = git@github.com:idsia-robotics/dory.git
+[submodule "vendor/quantlib"]
+	path = vendor/quantlib
+	url = git@github.com:idsia-robotics/quantlib.git
